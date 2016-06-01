@@ -1,6 +1,6 @@
 # Committing to the Job Search 
 
-Finding a new career in iOS or web development takes time and effort. It involves research, active outreach, tracking progress, building a personal brand, and more.
+Finding a new career in programming takes time and effort. It involves research, active outreach, tracking progress, building a personal brand, and more.
 
 ## Accept That the Job Search Isn’t Easy
 
@@ -76,7 +76,7 @@ Below are activities that define a proactive job search.
 
 However, at a networking event, a great way to break the ice is by using the situation. Example: “So, how long have you been going to this Ruby on Rails meetup?” or “Wasn’t that last speaker great?!” When you’re making small talk, don’t make it all about you, show that you’re interested in the other person. Try to find ways to help people. It doesn’t have to be big. Suggest an idea, or offer to introduce them to a contact at a company where you know someone, or recommend a programming book or your favorite meetup. When you help someone, they will naturally want to return the favor. (Aka “pay it forward”.) 
 
-**“What should I do if I am shy?”** When it comes to networking events and even one-on-one meetings, try to schedule them all on the same day of the week. This way, you can relax afterwards. (If being around people exhausts you.) Another way to make yourself feel at ease is by making it about the other person. (Especially when at a networking event.) When you do this by asking questions about them and offering help, it puts less pressure on you having to talk about yourself. And you’ll be much more likeable. (It’s flattering to have another person take interest in your life/work!) 
+**“What should I do if I am shy?”** When it comes to networking events and even one-on-one meetings, try to schedule them all on the same day of the week. This way, you can relax afterwards (if being around people exhausts you.) Another way to make yourself feel at ease is by making it about the other person (especially when at a networking event). When you do this by asking questions about them and offering help, it puts less pressure on you having to talk about yourself. And you’ll be much more likeable. (It’s flattering to have another person take interest in your life/work!) 
 
 **“What if evenings don’t work for me?”** Whether you have small children at home or don’t drink alcohol (and therefore don’t enjoy happy hours/”getting drinks after work”) - ask for a lunch/coffee date instead. When it comes to attending networking events, you can try to go to breakfasts before the workday begins. (If you live in a city, there is most likely some kind of breakfast meetup near you, and many breakfast meetups are attended by people are employed -- those are the people you want to meet.) 
 
