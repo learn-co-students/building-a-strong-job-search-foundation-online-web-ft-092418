@@ -64,11 +64,11 @@ Below are activities that define a proactive job search.
 
 * Consider volunteering your web development skills for an organization you care about (something you can add to your LinkedIn/portfolio!) 
 
-* Build mini apps (aka “side projects”) that people can actually use and find value from (another thing you can add to your LinkedIn/portfolio) .
+* Build mini apps (aka “side projects”) that people can actually use and find value from (another thing you can add to your LinkedIn/portfolio.)
 
 * Prepare answers to common interview questions you may be asked. 
 
-* Practice code challenges as a way to prepare for interviews 
+* Practice code challenges as a way to prepare for interviews. 
 
 ## Networking FAQs
 
