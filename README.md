@@ -78,7 +78,7 @@ However, at a networking event, a great way to break the ice is by using the sit
 
 **“What should I do if I am shy?”** When it comes to networking events and even one-on-one meetings, try to schedule them all on the same day of the week. This way, you can relax afterwards (if being around people exhausts you.) Another way to make yourself feel at ease is by making it about the other person (especially when at a networking event). When you do this by asking questions about them and offering help, it puts less pressure on you having to talk about yourself. And you’ll be much more likeable. (It’s flattering to have another person take interest in your life/work!) 
 
-**“What if evenings don’t work for me?”** Whether you have small children at home or don’t drink alcohol (and therefore don’t enjoy happy hours/”getting drinks after work”) - ask for a lunch/coffee date instead. When it comes to attending networking events, you can try to go to breakfasts before the workday begins. (If you live in a city, there is most likely some kind of breakfast meetup near you, and many breakfast meetups are attended by people are employed -- those are the people you want to meet.) 
+**“What if evenings don’t work for me?”** Whether you have small children at home or don’t drink alcohol (and therefore don’t enjoy happy hours/”getting drinks after work”) - ask for a lunch/coffee date instead. When it comes to attending networking events, you can try to go to breakfasts before the workday begins. (If you live in a city, there is most likely some kind of breakfast meetup near you, and many breakfast meetups are attended by people who are employed -- those are the people you want to meet.) 
 
 ## Employers Want to Hire People They Like 
 
