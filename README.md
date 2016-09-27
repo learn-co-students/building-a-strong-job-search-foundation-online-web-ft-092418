@@ -101,8 +101,8 @@ To recap,
 
 Finding a job takes time and effort. 
 
-## Assignment- Committing to the Job Search 
+## If You Have a Premium Account
 
-There is no specific assignment to submit for this lesson. Your coach will address with you the importance of committing to your job search. Committing to the process is important because the best opportunities can take the most work upfront. In the end, you get what you put into it. 
+There is no specific assignment to submit for this lesson. Your coach will address with you the importance of committing to your job search. Your coach will help you stay motivated and hold you accountable, and is there for you in all the aspects of your search. Committing to the process is important because the best opportunities can take the most work upfront. In the end, you get what you put into it. 
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/committing-to-the-job-search'>Committing to the Job Search</a> on Learn.co and start learning to code for free.</p>
