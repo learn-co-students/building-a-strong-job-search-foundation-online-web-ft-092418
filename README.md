@@ -1,3 +1,5 @@
+# Building a Strong Job Search Foundation
+
 Finding a new career in programming is not a straight line. It takes time and effort. It involves research, active outreach, tracking progress, building a personal brand, and more. It also requires:
 
   - Commitment
