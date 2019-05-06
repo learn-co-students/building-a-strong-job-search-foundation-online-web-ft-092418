@@ -1,6 +1,6 @@
 # Building a Strong Job Search Foundation
 
-Finding a new career in programming is not a straight line. It takes time and effort. It involves research, active outreach, tracking progress, building a personal brand, and more. It also requires:
+Finding a new career is not a straight line. It takes time and effort. It involves research, active outreach, tracking progress, building a personal brand, and more. It also requires:
 
   - Commitment
   - Flexibility
@@ -10,7 +10,7 @@ Finding a new career in programming is not a straight line. It takes time and ef
 
 ## Accept That the Job Search Isn’t Easy
 
-Finding a job as a web developer is a full-time job in itself. Understand that hiring managers **will not** discover you if you stay inside your apartment. You need to put yourself out there — physically and online. 
+Finding a job is a full-time job in itself. Understand that hiring managers **will not** discover you if you stay inside your apartment. You need to put yourself out there — physically and online. 
 
 
 An effective job search involves (but isn’t limited to): 
@@ -41,7 +41,7 @@ There are always ups and downs - including rejection - when pursuing something n
 
 ## Landing a Job Takes More than Technical Skill
 
-After wrapping up the Software Engineering program, you now have a strong foundation of technological skills. You have an understanding of programming fundamentals, object orientation, Ruby, JavaScript, and more — all of which employers find desirable when hiring software engineers.
+After wrapping up your Flatiron program, you now have a strong foundation of specialized technical skills unique to your field of study.
 
 However, having these technical skills alone is not enough to secure a job. There are other behaviors and soft skills that employers look for in a candidate.
 
