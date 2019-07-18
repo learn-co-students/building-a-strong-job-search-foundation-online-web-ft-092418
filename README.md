@@ -53,6 +53,6 @@ Some of the key ones include:
 
 - *Communication* - Listening, writing, and speaking effectively. Essentially, how well you can explain your ideas. Also, it's important that you use proper business communication etiquette (different than informal-style/social etiquette). 
 
-- *Time Management* - Do you respond to emails and related crrespondence in a reasonable amount of time? Does it seem like you can handle multiple responsibilities at once and set appropriate deadlines around them? 
+- *Time Management* - Do you respond to emails and related correspondence in a reasonable amount of time? Does it seem like you can handle multiple responsibilities at once and set appropriate deadlines around them? 
 
 Realize that these traits and soft skills can be even more important than your technical know-how. Because while you can be trained to learn new technical skills, your personality is unchanging. After all, companies don't hire a resume or skillset; they hire *people.*
