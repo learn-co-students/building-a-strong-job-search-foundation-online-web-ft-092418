@@ -27,7 +27,7 @@ An effective job search involves (but isn’t limited to):
 
   - Phone interviews, video/virtual interviews, and onsite interviews
 
-  - Completing code challenges
+  - Completing technical/practical challenges in your field of study
 
   - Continued learning and development
   
