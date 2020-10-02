@@ -47,7 +47,7 @@ However, having these technical skills alone is not enough to secure a job. Ther
 
 Some of the key ones include: 
 
-- *Appearance* - Or, the first impression that you make. This includes the clothing you wear, how you act, and your body language (making eye contact, a firm handshake, good posture, speaking with confidence, smiling!). 
+- *Appearance* - It's the first impression that you make. This includes the clothing you wear, how you act, and your body language (making eye contact, a firm handshake, good posture, speaking with confidence, smiling!). 
 
 - *Positive Attitude* - Do you seem like a team player? Easy to work with? Have an overall positive disposition? Are you enthusiastic about the company and role? Are you excited to code? 
 
